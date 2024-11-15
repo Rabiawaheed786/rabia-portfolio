@@ -9,7 +9,7 @@ function AboutSection() {
       <section id='about' className='w-full py-[160px] px-10 bg-[#222222] flex flex-col md:flex-row justify-center'>
         
         <div className='mx-auto w-[50%] px-[16px] flex flex-col items-start text-left'>
-          <p className={`${caveat.className} text-[48px]`}>Rabia bi bi</p>
+          <p className={`${caveat.className} text-[48px]`}>Rabia waheed</p>
           
           <p className={`${caveat.className} text-[30px] mt-2 mb-6 text-light-beige text-center lg:text-start text-3xl text-[#a9927d]`}>Freelance Web Developer</p>
           
