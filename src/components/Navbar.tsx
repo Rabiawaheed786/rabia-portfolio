@@ -18,7 +18,7 @@ function Navbar() {
           <div>
             <Link href='/'><p className={`${caveat.className} text-[1.875rem] font-semibold text-white`} >
                 <span className='text-[#A9927D]'>R</span>abia
-                <span className='text-[#A9927D]'>bi</span>bi</p></Link>
+                <span className='text-[#A9927D]'>W</span>aheed</p></Link>
                 
           </div>
 
