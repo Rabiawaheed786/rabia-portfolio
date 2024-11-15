@@ -24,14 +24,14 @@ function AboutSection() {
       </section>
       
       <section className="w-full py-5 px-5 mx-auto flex justify-center items-center gap-16 bg-[#1a1a1a] overflow-hidden">
-        <Image src={"/myImage/html.jpg"} alt='picture' width={96} height={96}></Image>
-        <Image src={"/myImage/css.jpg"} alt='picture' width={96} height={96}></Image>
-        <Image src={"/myImage/typescript.jpg"} alt='picture' width={70} height={70}></Image>
-        <Image src={"/myImage/git.jpg"} alt='picture' width={96} height={96}></Image>
-        <Image src={"/myImage/figma.jpg"} alt='picture' width={96} height={96}></Image>
-        <Image src={"/myImage/react.jpg"} alt='picture' width={96} height={96}></Image>
-        <Image src={"/myImage/node.jpg"} alt='picture' width={96} height={96}></Image>
-        <Image src={"/myImage/next.jpg"} alt='picture' width={96} height={96}></Image>
+        <Image src={"/myImage/html.png"} alt='picture' width={96} height={96}></Image>
+        <Image src={"/myImage/css.png"} alt='picture' width={96} height={96}></Image>
+        <Image src={"/myImage/typescript.png"} alt='picture' width={70} height={70}></Image>
+        <Image src={"/myImage/git.png"} alt='picture' width={96} height={96}></Image>
+        <Image src={"/myImage/figma.png"} alt='picture' width={96} height={96}></Image>
+        <Image src={"/myImage/react.png"} alt='picture' width={96} height={96}></Image>
+        <Image src={"/myImage/node.png"} alt='picture' width={96} height={96}></Image>
+        <Image src={"/myImage/next.png"} alt='picture' width={96} height={96}></Image>
       </section>
     </>
   )
